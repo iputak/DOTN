@@ -1,0 +1,16 @@
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\Database1.mdf
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\Database1_log.ldf
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\DOTN projekt.exe.config
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\DOTN projekt.exe
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\DOTN projekt.pdb
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN_projekt.Form1.resources
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN_projekt.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.exe
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.pdb
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\DOTN projekt.exe.manifest
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\bin\Debug\DOTN projekt.application
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.exe.manifest
+C:\Users\Korisnik\source\repos\DOTN projekt\DOTN projekt\obj\Debug\DOTN projekt.application
