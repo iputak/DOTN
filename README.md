@@ -10,3 +10,5 @@ Ispod formi za unos se nalazi kalendar gdje se označava datum zadnje plačene �
 S desne strane se nalazi 'picture box' gdje se unosi, mijenja, tj. pojavljuje slika korisnika.
 Svi podaci se spremaju u bazu koja je u svakom trenutku vidljiva na dnu aplikacije.
 
+##Dodatno
+Aplikacija je gruba verzija te bi se trebale ukloniti grešku ažuriranja fotografije.
